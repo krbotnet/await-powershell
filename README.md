@@ -4,7 +4,7 @@ Microsoft Powershell wrapped in a Promise for doing async/await.
 
 ## Install
 
-```bash
+```console
 $ npm install await-powershell
 $ yarn add await-powershell
 ```

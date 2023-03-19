@@ -1,0 +1,30 @@
+{
+  "name": "await-powershell",
+  "version": "1.0.7",
+  "description": "Microsoft Powershell wrapped in a Promise for doing async/await.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "powershell",
+    "node-powershell",
+    "powershell-command-executor",
+    "nodejs-powershell",
+    "microsoft powershell"
+  ],
+  "author": "krbot <support@krbot.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krbotnet/await-powershell"
+  },
+  "bugs": {
+    "url": "https://github.com/krbotnet/await-powershell",
+    "email": "support@krbot.net"
+  },
+  "homepage": "https://github.com/krbotnet/await-powershell",
+  "dependencies": {
+    "bl": "^6.0.1"
+  }
+}
